@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# SceneApp
+#
+
+projectname: SceneApp
+vendorid: com.mycompany
+mainmodule: com.mycompany.sceneapp
